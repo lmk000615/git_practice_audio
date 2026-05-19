@@ -6,8 +6,8 @@ def get_audio_duration_seconds(sample_rate, num_samples):
 
 
 def main():
-    sample_rate = int(input())
-    num_samples = int(input())
+    sample_rate = int(input("Enter sample rate: "))
+    num_samples = int(input("Enter number of samples: "))
     duration = get_audio_duration_seconds(sample_rate, num_samples)
     print(f"Duration: {duration:.2f} seconds")
 
