@@ -9,3 +9,7 @@ This is a small practice project for learning Git operations.
 - Learn git commit
 - Learn git push
 - Learn branch management
+
+## Remote Update Practice
+
+This line is added on GitHub to simulate another developer updating the remote main branch.
